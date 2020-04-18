@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DATA>
+   <GROUP_ID>github.com/sandraros</GROUP_ID>
+   <ARTIFACT_ID>apack1</ARTIFACT_ID>
+   <VERSION>0.1</VERSION>
+   <REPOSITORY_TYPE>abapGit</REPOSITORY_TYPE>
+   <GIT_URL>https://github.com/sandraros/apack1.git</GIT_URL>
+   <DEPENDENCIES>
+    <item>
+     <GROUP_ID>github.com/sandraros</GROUP_ID>
+     <ARTIFACT_ID>apack10</ARTIFACT_ID>
+     <VERSION>0.1</VERSION>
+     <GIT_URL>https://github.com/sandraros/apack10.git</GIT_URL>
+    </item>
+   </DEPENDENCIES>
+  </DATA>
+ </asx:values>
+</asx:abap>
