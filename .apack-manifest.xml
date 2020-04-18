@@ -14,6 +14,12 @@
      <VERSION>0.1</VERSION>
      <GIT_URL>https://github.com/sandraros/apack10.git</GIT_URL>
     </item>
+    <item>
+     <GROUP_ID>github.com/sandraros</GROUP_ID>
+     <ARTIFACT_ID>apack11</ARTIFACT_ID>
+     <VERSION>0.1</VERSION>
+     <GIT_URL>https://github.com/sandraros/apack11.git</GIT_URL>
+    </item>
    </DEPENDENCIES>
   </DATA>
  </asx:values>
